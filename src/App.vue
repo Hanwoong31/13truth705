@@ -51,7 +51,7 @@ body {
 
 .landing-page {
   min-height: 100vh;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: linear-gradient(135deg,  #2c3e50 0%, #34495e 100%);
   color: white;
   display: flex;
   flex-direction: column;
